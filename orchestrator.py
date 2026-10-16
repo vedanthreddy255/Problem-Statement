@@ -1,4 +1,4 @@
-"""TaxPilot P3: LangGraph supervisor and human approval gates.
+"""P3: LangGraph supervisor and human approval gates.
 Replace run_extractor and run_optimizer with other team members' implementations.
 """
 from __future__ import annotations
