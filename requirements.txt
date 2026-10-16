@@ -1,0 +1,8 @@
+deepagents
+fastmcp
+langchain
+langchain-anthropic
+langchain-mcp-adapters
+langfuse
+langgraph
+pydantic

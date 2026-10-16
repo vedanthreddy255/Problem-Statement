@@ -1,0 +1,6 @@
+.venv/
+.langfuse-venv/
+.env
+__pycache__/
+filing_summary.json
+mock/
