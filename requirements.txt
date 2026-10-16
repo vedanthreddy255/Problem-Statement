@@ -1,0 +1,32 @@
+# TaxPilot — Python dependencies
+# Install: pip install -r requirements.txt
+
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-anthropic>=0.3.0
+
+# LangGraph (P3 — Orchestrator)
+langgraph>=0.2.0
+
+# MCP integration (P1 server, P4 consumer)
+mcp>=1.0.0
+langchain-mcp-adapters>=0.1.0
+
+# Deep agent (P4)
+# deepagents>=0.1.0   # uncomment when P4 sets up
+
+# Observability (P5)
+langfuse>=2.0.0
+
+# Data validation
+pydantic>=2.0.0
+
+# HTTP / async
+httpx>=0.27.0
+aiohttp>=3.9.0
+
+# Dev / test
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+python-dotenv>=1.0.0
